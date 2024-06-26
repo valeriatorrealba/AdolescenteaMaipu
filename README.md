@@ -5,4 +5,4 @@ La Fundación Adolescentea maipú se dedica a apoyar y empoderar a adolescentes 
 ![AdolescenteaMaipu](assets/screenshot/adolescentea.png)
 
 
-![AdolescenteaMaipu](screenshot/responsiveAdolescentea.png)
+![AdolescenteaMaipu](assets/screenshot/responsiveAdolescentea.png)
