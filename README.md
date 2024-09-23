@@ -18,7 +18,7 @@ La Fundación Adolescentea maipú se dedica a apoyar y empoderar a adolescentes 
 - **Diseño Responsivo:** La página está optimizada para verse bien en dispositivos móviles, tablets y computadoras de escritorio.
   
 - **Secciones Personalizadas:** Las siguientes paginas fueron realizadas por mi 
-    - profesionales.html, equipo.html, apoyanos.html, contacto.html, logros.html, preguntas-frecuentes.html.
+    - profesionales.html, talleres.html, apoyanos.html, logros.html, preguntas-frecuentes.html.
 
 Pagina de taller
 
